@@ -81,8 +81,7 @@ uvicorn app.main:app --reload
 
 Accede a la documentación interactiva en:
 
-- [Swagger UI](http://127.0.0.1:8000/docs)
-- [Redoc](http://127.0.0.1:8000/redoc)
+- [OpenAPI Docs](http://127.0.0.1:8000/doc#)
 
 ## Pruebas con Pytest
 
